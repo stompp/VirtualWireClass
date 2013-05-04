@@ -1,0 +1,21 @@
+var NAVTREEINDEX0 =
+{
+"_virtual_wire_8h_source.html":[2,0,0],
+"_virtual_wire_class_8h_source.html":[2,0,1],
+"annotated.html":[1,0],
+"class_virtual_wire_class.html":[1,0,0],
+"class_virtual_wire_class.html#a034f51479bc77622fb66d6bcfd888357":[1,0,0,4],
+"class_virtual_wire_class.html#a3e19ff9bcfbed3792284f8fe337a2637":[1,0,0,0],
+"class_virtual_wire_class.html#a484c9df5a9d340f95650437af62385fa":[1,0,0,1],
+"class_virtual_wire_class.html#a6386f628d66900adc0d9bb63e1d5ca42":[1,0,0,3],
+"class_virtual_wire_class.html#a7782cf729d8cdf47b97f22217b76f2c3":[1,0,0,6],
+"class_virtual_wire_class.html#a81ed25e43dbf60c71270448f19c38194":[1,0,0,5],
+"class_virtual_wire_class.html#af805ead14ed8b8c67fd0f74c5e54be74":[1,0,0,2],
+"classes.html":[1,1],
+"files.html":[2,0],
+"functions.html":[1,2,0],
+"functions_func.html":[1,2,1],
+"index.html":[],
+"md__r_e_a_d_m_e.html":[0],
+"pages.html":[]
+};
